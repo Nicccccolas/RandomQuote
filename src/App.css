@@ -46,7 +46,8 @@ h1 {
 
   .card__author {
     grid-column: 2/2;
-    padding: 0.6rem;
+    padding-top: 0.8rem;
+    padding-bottom: 00.8rem;
     margin-left: auto;
     width: max-content;
     font-size: 1.8rem;
