@@ -47,10 +47,10 @@ h1 {
   .card__author {
     grid-column: 2/2;
     padding-top: 0.8rem;
-    padding-bottom: 00.8rem;
+    padding-bottom: 0.8rem;
     margin-left: auto;
     width: max-content;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-style: italic;
   }
 
@@ -113,7 +113,7 @@ h1 {
     padding-bottom: 0.8rem;
     margin-left: auto;
     width: max-content;
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-style: italic;
   }
 
